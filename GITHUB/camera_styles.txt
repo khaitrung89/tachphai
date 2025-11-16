@@ -1,0 +1,77 @@
+# CAMERA STYLES FOR CINEMATIC PROMPTS
+# Danh sách các kiểu camera chuyên nghiệp cho phim điện ảnh
+
+# === TRACKING & MOVEMENT ===
+Smooth tracking shot following character
+Steady cam following action
+Handheld camera tracking movement
+Dolly tracking shot forward
+Dolly tracking shot backward
+Crane shot rising up
+Crane shot descending down
+Orbit camera around subject
+Circular tracking shot
+
+# === STATIC SHOTS ===
+Static wide establishing shot
+Locked-off medium shot
+Tripod-mounted close-up
+Fixed camera observing scene
+Stationary overhead shot
+
+# === DYNAMIC MOVEMENT ===
+Fast whip pan left to right
+Slow pan across environment
+Tilt up revealing character
+Tilt down to object
+Dutch angle tilted shot
+Spinning 360-degree rotation
+Swooping aerial shot
+
+# === PUSH IN / PULL OUT ===
+Slow push in on character face
+Dramatic zoom in on eyes
+Pull back revealing wider scene
+Zoom out showing full environment
+Creeping push in building tension
+
+# === PERSPECTIVES ===
+Low angle looking up
+High angle looking down
+Bird's eye view from above
+Worm's eye view from ground
+Over-the-shoulder shot
+POV first-person perspective
+Extreme low angle power shot
+
+# === SPECIALIZED ===
+Steadicam gliding through space
+Gimbal smooth motion shot
+Slider lateral movement
+Jib arm sweeping motion
+Drone aerial establishing shot
+Car-mounted tracking shot
+Underwater camera movement
+
+# === SPEED VARIATIONS ===
+Slow motion capturing details
+Time-lapse compressed time
+Real-time documentary style
+Speed ramping from slow to fast
+Freeze frame moment
+
+# === FOCUS TECHNIQUES ===
+Rack focus shifting depth
+Deep focus everything sharp
+Shallow depth of field bokeh
+Soft focus dreamy look
+Pull focus transition
+
+# === CREATIVE ===
+Reflection in mirror shot
+Through glass distorted view
+Obscured framing partial view
+Symmetrical centered composition
+Asymmetric dynamic framing
+Leading lines perspective
+Silhouette backlit shot

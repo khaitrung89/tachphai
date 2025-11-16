@@ -1,0 +1,22 @@
+{
+  "characters": [
+    {
+      "name": "Alex",
+      "name_closeup": "Alex2",
+      "appearance": "36-year-old athletic man with short brown hair, sharp jawline, wearing tactical gear, muscular build, intense blue eyes",
+      "voice_tone": "Deep, commanding, confident"
+    },
+    {
+      "name": "Maya",
+      "name_closeup": "Maya2",
+      "appearance": "28-year-old woman with long black hair, elegant posture, wearing a dark coat, expressive dark eyes, smooth skin",
+      "voice_tone": "Soft, mysterious, calm"
+    },
+    {
+      "name": "Marcus",
+      "name_closeup": "Marcus2",
+      "appearance": "Middle-aged man with gray hair, weathered face, wearing a suit, stern expression, strong presence",
+      "voice_tone": "Rough, authoritative, experienced"
+    }
+  ]
+}
